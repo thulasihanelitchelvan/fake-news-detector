@@ -26,7 +26,7 @@ A machine learning project to detect **fake news** using **TF-IDF features** and
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/thulasihanelitchelvan/fake-news-detector)>
 cd FakeNews-Detector
 ```
 
